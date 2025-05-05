@@ -5,7 +5,7 @@
 // @description  commit-იდან ფაილის აღდგენა, blob-იდან ბილიკის დადგენა და რედაქტორში ავტომატური ჩასმა. ღილაკი ყოველთვის ჩანს SPA-ნავიგაციის შემთხვევაშიც.
 // @author       Khvicha
 // @match        https://github.com/*/*/commits/*/*
-// @match        https://github.com/*/*/blob/*/*
+// @match        https://github.com/*/*/blob/*/*fdhfhdhdfhdfhdfhdfhdfhhd
 // @match        https://github.com/*/*/edit/*
 // @grant        GM_setClipboard
 // ==/UserScript==
