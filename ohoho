@@ -1,4 +1,5 @@
-// ==UserScript==
+
+// ==UserScript== 10
 // @name         GitHub Restore Button for File History (v4.5 – always shows, SPA proof)
 // @namespace    http://tampermonkey.net/
 // @version      4.5
